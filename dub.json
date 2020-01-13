@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"quevangel"
+	],
+	"copyright": "none",
+	"dependencies": {
+		"derelict-sdl2": "~>2.1.4"
+	},
+	"description": "Minima.",
+	"license": "none",
+	"name": "minima"
+}
